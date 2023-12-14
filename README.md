@@ -16,7 +16,7 @@ As a strategic move, the managing director of AtliQ Grands wanted to incorporate
 # Novypro 🔗: https://www.novypro.com/project/revenue-insights-hospitality-power-bi-1
 
 # Action Performed 📢:
-✅ Data Assurance :◾Importing data
+✅ Data Assurance :◾Importing data from excel
                     ◾Verifying data
                     ◾Cleaning data in Power Query.
 
@@ -26,7 +26,7 @@ As a strategic move, the managing director of AtliQ Grands wanted to incorporate
                              ◾Creating measures using DAX.
 
 ✅ Developing:◾Developing dashboards
-              ◾Utilizing appropriate visualizations.
+              ◾Utilizing visualizations in Power BI.
 
 # Data Modelling 📅:              
 ![data modelling](https://github.com/RamachandranDA/ATLIQ-HOSPITALITY-DOMAIN-REVENUE-ANALYSIS/assets/140075853/7f79fd0d-88d7-42a7-825a-69055dbcea0c)
