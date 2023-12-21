@@ -31,7 +31,7 @@ As a strategic move, the managing director of AtliQ Grands wanted to incorporate
 # Data Modelling 📅:              
 ![data modelling](https://github.com/RamachandranDA/ATLIQ-HOSPITALITY-DOMAIN-REVENUE-ANALYSIS/assets/140075853/7f79fd0d-88d7-42a7-825a-69055dbcea0c)
 
-# 𝗞𝗲𝘆 𝗠𝗲𝘁𝗿𝗶𝗰𝘀 🔑:
+# Key Metrics 🔑:
 **RevPAR (Revenue Per Available Room)** - It represents the revenue generated per available room, If available or not they are occupied.
 
 **DBRN (Daily Booked Room Nights)** -  This metrics tells on average how many rooms are booked for a day considering a time period
